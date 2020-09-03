@@ -3,7 +3,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 #Music list
 
-![alt text](https://github.com/AjayYadavAi/expense-tracker/image.png?raw=true)
+![alt text](https://github.com/AjayYadavAi/expense-tracker/blob/master/image.png?raw=true)
 
 
 ## Available Scripts
